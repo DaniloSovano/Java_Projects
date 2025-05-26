@@ -14,8 +14,6 @@ public class teste {
         System.out.println(teste);
     }
 }
-
-
 //String[] arrayPartes = CPF.split("[.-]");
 //String noPointsCPF = "";
 //        for (int i = 0; i < digito.length; i++) {

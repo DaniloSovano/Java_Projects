@@ -8,7 +8,7 @@ public class VerificarCPF {
         }
         return 11-divisao;
     }
-    boolean verificarRepetição(int[] vetor){
+    boolean verificarRepeticao(int[] vetor){
         for (int i = 0; i < vetor.length-1; i++) {
             if(vetor[i] != vetor[i+1]){
                 return false;
@@ -33,9 +33,9 @@ public class VerificarCPF {
     }
     boolean verify(String CPF) {
         int[] digitos = separarDigitos(CPF);
-        if (verificarRepetição(digitos)){
+        if (verificarRepeticao(digitos)){
             return false;
-        };
+        }
         int soma = 0;
         int multiplo = 10;
         for (int i = 0; i <=8;i++){
@@ -58,7 +58,7 @@ public class VerificarCPF {
         int decimoPrimeiroDigito = calcularDigito(soma);
         if  (decimoPrimeiroDigito != digitos[10]) {
             return false;
-        };
+        }
         return true;
     }
 
