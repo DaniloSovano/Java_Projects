@@ -1,9 +1,33 @@
-# Projetos em Java
+# Conjunto de programas - Programação II
 
-Este repositório reúne diversos projetos desenvolvidos em Java, com o objetivo de praticar e demonstrar conhecimentos na linguagem. Os projetos variam de exemplos simples a aplicações mais elaboradas, incluindo conceitos fundamentais da programação orientada a objetos, estruturas de dados e interfaces gráficas.
+Repositório com programas desenvolvidos em **Java**, utilizando **programação orientada a objetos**.
+## 👨‍💻 Integrantes da Equipe
 
-## 📌 Objetivos
+- Antonio Esdras  
+- Danilo Sovano  
+- Thiago Leonardo  
+- João Paulo Silva  
+- Yasmim Nagat
+  
+## ✅ Funcionalidades
 
-- Consolidar o aprendizado da linguagem Java
-- Criar soluções reutilizáveis e didáticas
-- Desenvolver boas práticas de programação
+### 1. Calculadora
+Operações implementadas:
+- Adição, subtração, multiplicação, divisão
+- Exponenciação, divisão inteira, módulo
+- Fatorial, arranjos, permutações
+- Piso, teto, raízes de grau *n*
+- Verificador de número primo
+- Verificador de quadrado perfeito
+
+### 2. Equação do 2º Grau
+- Cálculo das raízes reais da equação `ax² + bx + c = 0`.
+
+### 3. Conversor de Unidades e Moedas
+- **Temperatura:** Celsius, Fahrenheit, Kelvin  
+- **Comprimento:** metros, cm, mm, polegadas, pés  
+- **Massa:** kg, g, libras  
+- **Moeda:** real, dólar, euro, libra
+
+### 4. Validador de CPF
+- Verifica se um CPF é válido com base nos dígitos verificadores.
