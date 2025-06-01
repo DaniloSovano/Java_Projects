@@ -4,7 +4,7 @@ import conversores.ConversorMoeda;
 import conversores.ConversorTemperatura;
 import utils.*;
 
-public class Main {
+public class ConversoresMain {
     public static void main(String[] args) {
         boolean continuar = true;
         InputUsuario input = new InputUsuario();

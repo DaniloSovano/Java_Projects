@@ -11,7 +11,7 @@ Repositório com programas desenvolvidos em **Java**, utilizando **programação
   
 ## ✅ Funcionalidades
 
-### 1. Calculadora
+### 1. CalculadoraBasica
 Operações implementadas:
 - Adição, subtração, multiplicação, divisão
 - Exponenciação, divisão inteira, módulo
